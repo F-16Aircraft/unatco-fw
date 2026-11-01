@@ -1,0 +1,310 @@
+# Independent Software Non-Commercial Patent License (ISNC-P)
+
+**Version 1.0 — November 2026**
+
+Copyright © [YEAR] [COPYRIGHT HOLDER]
+
+All rights reserved except as expressly granted under this License.
+
+---
+
+## 1. Definitions
+
+**1.1 Software:** The source code, object code, documentation, associated assets, libraries, and other materials distributed under this License.
+
+**1.2 Licensor:** The copyright holder or authorized party distributing the Software.
+
+**1.3 Licensee:** Any individual or organization using, modifying, or redistributing the Software.
+
+**1.4 Non-Commercial Use:** Use for personal, educational, research, testing, accessibility, or other purposes that are not primarily intended for commercial advantage or monetary compensation.
+
+**1.5 Commercial Use:** Any use primarily intended for commercial advantage, monetary compensation, revenue generation, or commercial exploitation.
+
+**1.6 Contributor:** Any individual or legal entity that intentionally submits original material for inclusion in the Software.
+
+**1.7 Contribution:** Any original work, modification, enhancement, or addition intentionally submitted to the Licensor for inclusion in the Software.
+
+---
+
+## 2. Copyright License Grant
+
+Subject to compliance with this License, the Licensor grants the Licensee a worldwide, non-exclusive, royalty-free, perpetual, and non-transferable copyright license to:
+
+- Use the Software for permitted Non-Commercial purposes.
+- Study, inspect, and analyze the Software.
+- Modify and create derivative works.
+- Reproduce the Software.
+- Redistribute original or modified copies for permitted Non-Commercial purposes.
+
+This grant does not transfer ownership of the Software or its intellectual property.
+
+---
+
+## 3. Commercial Use Restrictions
+
+Commercial use is expressly prohibited without separate written authorization from the Licensor.
+
+Without limitation, the following activities are prohibited without written permission:
+
+- Selling the Software or derivative versions.
+- Offering the Software as a paid product or service.
+- Commercially licensing or sublicensing the Software.
+- Incorporating the Software into commercial products or services.
+- Using the Software primarily to generate revenue or commercial advantage.
+- Distributing modified versions for commercial exploitation.
+- Using the Software as part of a commercial service, subscription, or monetized platform.
+
+The Licensor may separately authorize commercial use through a written commercial license.
+
+---
+
+## 4. Prohibited Uses and Abuse Prevention
+
+The Licensee shall not use, modify, distribute, integrate, or otherwise operate the Software, in whole or in part, for any of the following purposes:
+
+### 4.1 Malware and Malicious Software
+
+- Creating, deploying, distributing, or operating malware, ransomware, spyware, trojans, worms, rootkits, or other malicious software.
+- Unauthorized destruction, encryption, modification, or exfiltration of data.
+- Unauthorized access to computer systems, networks, devices, or accounts.
+- Circumventing security mechanisms for malicious or unauthorized purposes.
+- Establishing unauthorized persistence, remote access, or command-and-control functionality.
+
+### 4.2 Unauthorized Surveillance and Spying
+
+- Secretly monitoring, recording, tracking, or surveilling individuals without appropriate authorization or lawful basis.
+- Collecting private communications, credentials, personal information, or sensitive data without authorization.
+- Deploying covert monitoring mechanisms, keyloggers, hidden recording functionality, or unauthorized tracking systems.
+- Accessing cameras, microphones, location information, or other sensors without appropriate authorization and consent where required by law.
+- Intercepting private communications or network traffic without appropriate authorization.
+
+### 4.3 Covert and Unauthorized Operations
+
+- Conducting unauthorized surveillance, intelligence collection, or reconnaissance against individuals, organizations, or computer systems.
+- Concealing malicious functionality, unauthorized access, or unlawful activity.
+- Deploying unauthorized backdoors, persistence mechanisms, or remote-control functionality.
+- Using the Software to facilitate stalking, harassment, intimidation, extortion, or other unlawful conduct.
+- Disguising malicious functionality as legitimate software functionality.
+
+### 4.4 Illegal Activities
+
+- Using the Software to facilitate criminal activity or intentional violations of applicable law.
+- Circumventing legal restrictions or access controls for unlawful purposes.
+- Facilitating fraud, identity theft, impersonation, or unauthorized financial activity.
+- Assisting or enabling activities prohibited under applicable criminal or cybersecurity laws.
+- Knowingly facilitating the unlawful acquisition, disclosure, or exploitation of protected information.
+
+### 4.5 Circumvention of Security Safeguards
+
+The Licensee shall not remove, disable, bypass, conceal, or circumvent security safeguards incorporated into the Software for the purpose of enabling activities prohibited by this License.
+
+This provision does not prohibit legitimate modification, accessibility improvements, interoperability work, security testing, or authorized research.
+
+### 4.6 Legitimate Security Research and Authorized Activities
+
+Nothing in this section prohibits legitimate and authorized activities, including:
+
+- Defensive cybersecurity research.
+- Authorized penetration testing.
+- Malware analysis in isolated research environments.
+- Digital forensics and incident response.
+- Security auditing and vulnerability assessment.
+- Lawful system administration and monitoring.
+- Educational research and controlled security experimentation.
+- Authorized network analysis and diagnostics.
+
+Such activities must be conducted with appropriate authorization and in compliance with applicable law.
+
+### 4.7 Enforcement
+
+Any use of the Software in violation of this section constitutes a material breach of this License and may result in termination of the rights granted under Section 14.
+
+The Licensor reserves all rights and remedies available under applicable law.
+
+---
+
+## 5. Patent License Grant
+
+Subject to the terms of this License, each Contributor grants the Licensee a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated below) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Software.
+
+This patent grant applies only to patent claims owned or controlled by that Contributor that are necessarily infringed by:
+
+1. Their Contribution alone; or
+2. The combination of their Contribution with the Software to which it was submitted.
+
+This patent grant does not authorize commercial use where such use is prohibited under Section 3.
+
+No patent license is granted for unrelated inventions, independent implementations, or patent claims outside the scope expressly described above.
+
+---
+
+## 6. Patent Litigation Termination
+
+If a Licensee initiates patent litigation against the Licensor or any Contributor alleging that the Software or a Contribution incorporated within it constitutes patent infringement, any patent licenses granted to that Licensee under this License shall terminate on the date such litigation is filed.
+
+This provision does not apply to defensive counterclaims or cross-claims arising from an existing patent proceeding.
+
+---
+
+## 7. Redistribution Requirements
+
+Redistribution is permitted exclusively for Non-Commercial Use, provided that:
+
+1. A copy of this License accompanies the redistributed Software.
+2. Existing copyright notices are preserved.
+3. Modifications are clearly identified.
+4. Recipients are informed of the applicable restrictions.
+5. No additional restrictions are imposed that contradict this License.
+6. The original Licensor and Contributors are appropriately credited.
+
+Redistribution does not grant permission to remove or circumvent the commercial-use restrictions or prohibited-use provisions.
+
+---
+
+## 8. Contributions
+
+Unless a separate written agreement states otherwise, Contributions intentionally submitted for inclusion in the Software are licensed to the Licensor under the copyright and patent terms of this License.
+
+Contributors retain ownership of their original Contributions.
+
+By submitting a Contribution, the Contributor represents that:
+
+- They have the legal authority to submit the Contribution.
+- Their Contribution does not knowingly violate another party's intellectual property rights.
+- They are authorized to grant the rights described in this License.
+
+The Licensor may require a separate Contributor License Agreement (CLA) before accepting external Contributions.
+
+---
+
+## 9. Trademark Rights
+
+This License does not grant permission to use the Licensor's trademarks, logos, product names, or branding except where necessary to accurately identify the Software.
+
+All trademark rights remain with their respective owners.
+
+---
+
+## 10. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, SECURE, OR SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+THE LICENSOR DOES NOT GUARANTEE THAT THE SOFTWARE WILL FUNCTION CORRECTLY WITH ALL HARDWARE, OPERATING SYSTEMS, CONFIGURATIONS, OR THIRD-PARTY APPLICATIONS.
+
+---
+
+## 11. Assumption of Risk, Release of Claims, and Waiver of Liability
+
+### 11.1 Voluntary Assumption of Risk
+
+By downloading, installing, accessing, executing, modifying, or otherwise using the Software, the Licensee acknowledges and accepts that software use may involve inherent risks, including but not limited to:
+
+- Unexpected software behavior or malfunction.
+- System instability, crashes, or operating system conflicts.
+- Data corruption, accidental deletion, or permanent data loss.
+- Hardware or peripheral malfunction.
+- Security vulnerabilities or unintended exposure of information.
+- Compatibility problems with other software or hardware.
+- Loss of functionality, availability, or access to information.
+
+The Licensee voluntarily assumes responsibility for evaluating these risks before using the Software.
+
+### 11.2 Release and Waiver of Claims
+
+To the maximum extent permitted by applicable law, the Licensee agrees to release and hold harmless the Licensor, the Software's creator, copyright holders, developers, maintainers, and Contributors from claims arising out of or relating to:
+
+- The Licensee's use or inability to use the Software.
+- Software errors, defects, malfunctions, or unexpected behavior.
+- Data corruption, deletion, destruction, or loss.
+- System failures, crashes, or hardware damage.
+- Security incidents or unauthorized access resulting from the Licensee's deployment or configuration of the Software.
+- Modifications made by the Licensee or third parties.
+- Incompatibility with other applications, operating systems, or hardware.
+
+This release applies only to claims that may lawfully be released under applicable law.
+
+### 11.3 Limitation of Liability
+
+To the maximum extent permitted by applicable law, the Licensor, creator, developers, maintainers, and Contributors shall not be liable for any:
+
+- Direct, indirect, incidental, special, exemplary, or consequential damages.
+- Loss of data, files, configurations, or stored information.
+- Loss of profits, revenue, business opportunities, or anticipated savings.
+- Hardware damage or system malfunction.
+- Business interruption or operational downtime.
+- Security incidents, unauthorized access, or information exposure.
+- Other losses arising from the installation, execution, modification, distribution, or use of the Software.
+
+This limitation applies regardless of the legal theory under which a claim is asserted, including contract, tort, negligence, or otherwise, to the extent permitted by applicable law.
+
+### 11.4 No Guarantee of Recovery
+
+The Licensor has no obligation to recover, restore, reconstruct, replace, or compensate for data, configurations, files, or other information lost or damaged through the use of the Software.
+
+Licensees are responsible for maintaining independent backups of important information.
+
+### 11.5 Independent Evaluation
+
+The Licensee acknowledges that the Software is provided for use at their own discretion and risk.
+
+The Licensee is responsible for determining whether the Software is suitable for their intended environment, hardware, operating system, and operational requirements.
+
+### 11.6 Non-Waivable Rights
+
+Nothing in this section shall exclude, restrict, or waive any liability, statutory protection, or legal right that cannot lawfully be excluded, restricted, or waived under applicable law.
+
+Nothing in this section protects the Licensor against liability for fraud, intentional misconduct, or other conduct for which liability cannot legally be disclaimed.
+
+### 11.7 Acknowledgment of Agreement
+
+By accepting this License and exercising the rights granted under it, the Licensee acknowledges having read and understood the limitations, disclaimers, assumptions of risk, and releases contained herein.
+
+---
+
+## 12. Limitation of Liability
+
+To the maximum extent permitted by applicable law, neither the Licensor nor Contributors shall be liable for any direct, indirect, incidental, special, exemplary, or consequential damages arising from the use, distribution, modification, or inability to use the Software.
+
+Nothing in this section excludes liability that cannot legally be excluded or limited.
+
+---
+
+## 13. Governing Law
+
+This License shall be interpreted under the laws of [JURISDICTION], without regard to its conflict-of-law provisions.
+
+Any disputes shall be resolved in accordance with applicable law and the jurisdiction of the competent courts.
+
+---
+
+## 14. Termination
+
+Rights granted under this License terminate automatically upon material violation of its terms.
+
+Upon termination, the Licensee must cease activities requiring authorization under this License and cease further redistribution or use of the Software under the terminated grant.
+
+Rights and permissions properly granted to compliant downstream recipients are not automatically revoked by the termination of another Licensee's rights.
+
+The Licensor may reinstate terminated rights through express written authorization.
+
+---
+
+## 15. Entire Agreement and Severability
+
+This License constitutes the agreement governing the use, modification, and redistribution of the Software, subject to any separate written agreements between the Licensor and Licensee.
+
+If any provision is found unenforceable, the remaining provisions shall remain effective to the fullest extent permitted by law.
+
+No failure to enforce any provision shall constitute a waiver of that provision.
+
+---
+
+# END OF INDEPENDENT SOFTWARE NON-COMMERCIAL PATENT LICENSE
+
+**ISNC-P Version 1.0**
+
+Copyright © [YEAR] [COPYRIGHT HOLDER]
+
+All rights reserved.
