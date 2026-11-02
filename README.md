@@ -404,7 +404,7 @@ No behavioral monitoring system can guarantee detection of all malicious softwar
 
 ## Development Status
 
-The project is implemented against the Windows API but has not yet undergone a verified compilation and runtime test on Windows hardware.
+The project is implemented against the Windows API. app has been tested and works but needs alot of improvements.
 
 The initial build may require compiler-specific corrections or runtime adjustments.
 
